@@ -1,0 +1,10 @@
+{
+  "id": "auto-timestamp",
+  "name": "Auto Timestamp",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Automatically adds and updates created/modified timestamps in YAML frontmatter",
+  "author": "fujiemon",
+  "authorUrl": "https://github.com/shotafujie/Auto-Frontmatter-Timestamp",
+  "isDesktopOnly": false
+}
