@@ -90,6 +90,3 @@ npm run dev
 npm run build
 ```
 
-## ライセンス
-
-MIT License
